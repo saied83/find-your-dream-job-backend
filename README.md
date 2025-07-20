@@ -1,4 +1,4 @@
-# Find Your Dream Job (Client)
+# Find Your Dream Job (Server)
 
 This is a Full Stack Project build with `Express.js`, `Node.js`, `MySQL`, `React.js`, `TailwindCSS`.
 
